@@ -4,7 +4,7 @@
 
   <!-- Texte animé façon machine à écrire -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Salut,+je+suis+Noah+Depagne;%C3%89tudiant+en+BTS+SIO+SLAM;D%C3%A9veloppeur+Back-end+%26+Mobile" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Salut,+je+suis+Noah+Depagne;%C3%89tudiant+en+BTS+SIO+SLAM;D%C3%A9veloppeur+Full+Stack" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,8 +14,8 @@
 
 Je suis étudiant en **BTS SIO (spécialité SLAM)**, passionné par la conception logicielle. Fort d'une expérience pratique acquise lors d'un stage de 5 semaines chez **Cooperl**, je suis aujourd'hui à la recherche de mon prochain **stage en développement (du 18 janvier au 26 février 2027)**.
 
-*   🔭 Je travaille actuellement sur : **[Atlantik](https://github.com/Noah22550/Atlantik)** (C#/PHP) et des projets mobiles natifs.
-*   🌱 J'explore : L'architecture logicielle, le framework Spring Boot et les bonnes pratiques de sécurité.
+*   🔭 Je travaille actuellement sur : **Le développement mobile natif avec Kotlin** et la création d'API avec **JavaScript et Express**.
+*   🌱 J'explore : L'écosystème **Full Stack** et les bonnes pratiques liées à la **sécurisation des applications web**.
 *   📫 Comment me joindre : **noahdepagne@gmail.com**
 
 ---
