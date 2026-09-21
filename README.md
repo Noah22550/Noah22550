@@ -1,47 +1,46 @@
-# Noah Depagne
-
-Étudiant en **BTS SIO (spécialité SLAM)**, passionné par la conception logicielle et le développement d'applications. 
-
-Fort d'une expérience pratique acquise lors d'un **stage en développement de 5 semaines chez Cooperl**, je suis aujourd'hui activement à la recherche de mon prochain **stage du 18 janvier au 26 février 2027** pour continuer à monter en compétences sur des projets concrets.
-
----
-
-### Compétences Techniques
-
-**Langages & Frameworks**
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Outils & Environnements**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
----
-
-### Projets Principaux
-
-*   **[Atlantik](https://github.com/Noah22550/Atlantik) & [WebAtlantik](https://github.com/Noah22550/webatlantik)** : Projet complet comprenant une application client lourd développée en C# et sa partie web cliente réalisée en PHP.
-*   **[MiniProjSpringBoot](https://github.com/Noah22550/MiniProjSpringBoot)** : Développement d'une application Java structurée autour du framework Spring Boot.
-*   **[Finder](https://github.com/Noah22550/Finder)** : Projet JavaScript orienté sur la gestion de données.
-*   **[Portfolio](https://github.com/Noah22550/Portfolio)** : Conception de mon portfolio en HTML/CSS, livrable de fin de deuxième année de BTS SIO.
-*   **[KotlinCours](https://github.com/Noah22550/kotlinCours)** : Dépôt regroupant mes applications et concepts étudiés en Kotlin.
-
----
-### Statistiques GitHub
-
 <div align="center">
-  <!-- Trophées GitHub -->
-  <img src="https://github-profile-trophy.vercel.app/?username=noah22550&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="Trophées de Noah" />
+  <!-- Bannière animée -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello%20World!&fontSize=50&animation=fadeIn" />
+
+  <!-- Texte animé façon machine à écrire -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Salut,+je+suis+Noah+Depagne;%C3%89tudiant+en+BTS+SIO+SLAM;D%C3%A9veloppeur+Back-end+%26+Mobile" alt="Typing SVG" />
+  </a>
 </div>
 
-<br/>
+---
+
+### 👨‍💻 À propos de moi
+
+Je suis étudiant en **BTS SIO (spécialité SLAM)**, passionné par la conception logicielle. Fort d'une expérience pratique acquise lors d'un stage de 5 semaines chez **Cooperl**, je suis aujourd'hui à la recherche de mon prochain **stage en développement (du 18 janvier au 26 février 2027)**.
+
+*   🔭 Je travaille actuellement sur : **[Atlantik](https://github.com/Noah22550/Atlantik)** (C#/PHP) et des projets mobiles natifs.
+*   🌱 J'explore : L'architecture logicielle, le framework Spring Boot et les bonnes pratiques de sécurité.
+*   📫 Comment me joindre : **noahdepagne@gmail.com**
+
+---
+
+### 🛠️ Ma Stack Technique
 
 <div align="center">
-  <!-- Graphique d'activité -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noah22550&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&title_color=ffffff&stat_color=ffffff" alt="Graphique d'activité" />
+  <!-- Icônes uniformes et épurées (Skill Icons) -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,cs,php,js,postgres,spring,nodejs,express,androidstudio,git,github&perline=6" />
+  </a>
+</div>
+
+---
+
+### 🚀 Mes Projets Récents
+
+| Projet | Description | Technologies |
+|---|---|---|
+| **[Atlantik](https://github.com/Noah22550/Atlantik)** | Application client lourd et sa partie web (WebAtlantik). | `C#`, `PHP` |
+| **[MiniProjSpringBoot](https://github.com/Noah22550/MiniProjSpringBoot)** | Application back-end structurée. | `Java`, `Spring Boot` |
+| **[Finder](https://github.com/Noah22550/Finder)** | API REST back-end pour la gestion de données. | `Node.js`, `Express` |
+| **[Projet Flow](https://github.com/Noah22550/Portfolio)** | Applications mobiles natives et calculatrice Android. | `Kotlin`, `Jetpack Compose` |
+
+<div align="center">
+  <!-- Vague de fin -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
 </div>
