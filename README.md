@@ -26,9 +26,7 @@ Je suis activement à la recherche d'un **stage en développement du 18 janvier 
 
 ### Projets Principaux
 
-*   **Projet Flow & Calculatrice Mobile** : Applications natives développées pour Android. Conception des interfaces avec Kotlin et Jetpack Compose.
 *   **Finder** : Création d'une API REST back-end structurée avec Node.js et Express pour la gestion et la récupération de données.
-*   **BelugaPrime.fr** : Environnement web de test personnel déployé pour analyser et auditer les configurations de sécurité.
 
 ---
 
