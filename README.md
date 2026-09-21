@@ -32,7 +32,16 @@ Fort d'une expérience pratique acquise lors d'un **stage en développement de 5
 *   **[KotlinCours](https://github.com/Noah22550/kotlinCours)** : Dépôt regroupant mes applications et concepts étudiés en Kotlin.
 
 ---
+### Statistiques GitHub
 
-[![Statistiques de Noah](https://github-readme-stats.vercel.app/api?username=noah22550&show_icons=true&theme=dark&v=3)](https://github.com/Noah22550)
+<div align="center">
+  <!-- Trophées GitHub -->
+  <img src="https://github-profile-trophy.vercel.app/?username=noah22550&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="Trophées de Noah" />
+</div>
 
-[![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=noah22550&layout=compact&theme=dark&v=3)](https://github.com/Noah22550)
+<br/>
+
+<div align="center">
+  <!-- Graphique d'activité -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noah22550&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&title_color=ffffff&stat_color=ffffff" alt="Graphique d'activité" />
+</div>
