@@ -35,10 +35,6 @@ Fort d'une expérience pratique acquise lors d'un **stage en développement de 5
 
 ### Statistiques GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noah22550&show_icons=true&theme=dark" alt="Statistiques de Noah" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noah22550&layout=compact&theme=dark" alt="Top Langages" />
-</div>
+[![Statistiques de Noah](https://github-readme-stats.vercel.app/api?username=Noah22550&show_icons=true&theme=dark&v=2)](https://github.com/Noah22550)
+
+[![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noah22550&layout=compact&theme=dark&v=2)](https://github.com/Noah22550)
