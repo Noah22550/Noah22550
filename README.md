@@ -1,16 +1,37 @@
-## Hi there 👋
+# Noah Depagne
 
-<!--
-**Noah22550/Noah22550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en **BTS SIO (spécialité SLAM)**, passionné par la conception logicielle et le développement d'applications métiers et mobiles. 
 
-Here are some ideas to get you started:
+### Objectif Actuel
+Je suis activement à la recherche d'un **stage en développement du 18 janvier au 26 février 2027** pour mettre en pratique mes compétences et contribuer à des projets concrets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Compétences Techniques
+
+**Langages de programmation**
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Développement Back-end & Outils**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+---
+
+### Projets Principaux
+
+*   **Projet Flow & Calculatrice Mobile** : Applications natives développées pour Android. Conception des interfaces avec Kotlin et Jetpack Compose.
+*   **Finder** : Création d'une API REST back-end structurée avec Node.js et Express pour la gestion et la récupération de données.
+*   **BelugaPrime.fr** : Environnement web de test personnel déployé pour analyser et auditer les configurations de sécurité.
+
+---
+
+### Statistiques GitHub
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=gray)](https://github.com/Noah22550)
