@@ -34,4 +34,4 @@ Je suis activement à la recherche d'un **stage en développement du 18 janvier 
 
 ### Statistiques GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=gray)](https://github.com/Noah22550)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noah22550&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=gray)](https://github.com/Noah22550)
